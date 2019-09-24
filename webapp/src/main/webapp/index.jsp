@@ -2,5 +2,5 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>i
 
-<b>This is for the ansible deploymeny</b>
+<b>This is for the ansible deployment<b>
 <i>Manish Kumar</i>
